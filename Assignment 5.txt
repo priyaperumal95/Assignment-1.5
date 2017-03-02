@@ -1,0 +1,27 @@
+1. Hadoop in layman's term:
+
+    According to layman Hadoop is divided into a two component one is storage and another one is processing.
+
+    The Storage is performed by the HDFS.
+
+    The Processing is done by Mapreduce it uses hive pig etc.
+
+
+2. Components of Hadoop framework
+
+   HDFS
+   Map Reduce
+   YARN
+   PIG
+   HIVE
+   HBase
+
+
+
+
+3. Reasons to learn Big data technologies
+
+   1.Hadoop brings in better career opportunities.
+   2.The data will be always growing so big data is a field where it does not slow down."No signs of slowing down".
+   3.For anaytics, management and decision making can be done in the large companies.
+   4.Everywhere the Big data is very much useful from politics to health care to even sports.
